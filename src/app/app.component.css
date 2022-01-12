@@ -1,0 +1,23 @@
+.photo-card {
+  margin-top: 30px;
+  width: 40%;
+}
+
+/* .space-image {
+  max-width: 30%;
+} */
+
+/* mat-card img {
+  width: 100%;
+  height: 50vw;
+  object-fit: cover;
+  position: center;
+} */
+
+.card-button {
+  right: 0;
+}
+
+.clicked {
+  color: blue;
+}
